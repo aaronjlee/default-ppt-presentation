@@ -1,5 +1,5 @@
 # Default PowerPoint Presentation Template
-Steps for creating a default PPT presentation with a key template on either Windows or Mac
+Steps for creating a default PPT presentation with a key template on Windows
 
 ## Create a Default Template on PowerPoint 2013 for Windows
 Unlike earlier versions, PowerPoint 2013 no longer automatically takes you to the correct folder when you choose to save as template. Instead, you have to take it firmly by the hand and lead it there.
